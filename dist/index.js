@@ -1,4 +1,4 @@
 "use strict";
-const user = "mosto";
+const user = "BNN";
 console.log(user);
 //# sourceMappingURL=index.js.map

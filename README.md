@@ -11,3 +11,9 @@ tsc --init --sourceMap --rootDir src --outDir dist
 ```
 tsc
 ```
+
+2. typescript live run
+
+```
+tsc -w
+```

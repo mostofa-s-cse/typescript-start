@@ -1,2 +1,2 @@
-const user = "mosto";
+const user = "BNN";
 console.log(user);
